@@ -1,7 +1,7 @@
-slogan: "Yet another bootstrap theme."
+slogan: "在路上"
 
-theme: cerulean
-inverse: true
+theme: cosmo
+inverse: false
 
 menu:
   - title: Archives
