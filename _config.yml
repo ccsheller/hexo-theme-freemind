@@ -28,11 +28,11 @@ links:
     icon: "fa fa-github"
 
 widgets:
-- recent_comments
 - category
 - tagcloud
 - recent_posts
 - links
+- recent_comments
 
 rss:
 fancybox: true
